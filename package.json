@@ -1,0 +1,15 @@
+{
+  "name": "auto-complete-informed",
+  "author": "Ricardo Monroy",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "Private",
+  "peerDependencies": {
+    "informed": "^3.0.0",
+    "react": "^17.0.2 || ^16.0.2 || ^18.0.0",
+    "react-dom": "^17.0.2 || ^16.0.2 || ^18.0.0"
+  },
+  "dependencies": {
+    "fuse.js": "^6.6.2"
+  }
+}
